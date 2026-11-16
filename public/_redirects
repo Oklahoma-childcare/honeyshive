@@ -1,0 +1,1 @@
+# Static pages have their own index.html; no SPA rewrite is needed.

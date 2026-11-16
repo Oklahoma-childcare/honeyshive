@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+<rect width="1000" height="800" fill="#DADDD0"/>
+<g fill="none" stroke="#587E59" stroke-width="5" opacity=".5"><path d="M150 135l90 50v100l-90 50-90-50V185zM330 135l90 50v100l-90 50-90-50V185zM510 135l90 50v100l-90 50-90-50V185zM690 135l90 50v100l-90 50-90-50V185zM870 135l90 50v100l-90 50-90-50V185zM240 285l90 50v100l-90 50-90-50V335zM420 285l90 50v100l-90 50-90-50V335zM600 285l90 50v100l-90 50-90-50V335zM780 285l90 50v100l-90 50-90-50V335z"/></g>
+<g fill="#D6A64A"><circle cx="150" cy="242" r="28"/><circle cx="510" cy="242" r="28"/><circle cx="780" cy="390" r="25"/></g>
+<g fill="#EAA78F"><circle cx="75" cy="605" r="35"/><circle cx="855" cy="645" r="48"/><circle cx="385" cy="620" r="25"/></g>
+<g fill="#1F352B"><path d="m90 82 7 19 19 7-19 7-7 19-7-19-19-7 19-7z"/><path d="m900 530 7 19 19 7-19 7-7 19-7-19-19-7 19-7z"/></g>
+</svg>

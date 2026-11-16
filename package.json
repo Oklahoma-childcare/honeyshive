@@ -1,0 +1,28 @@
+{
+  "name": "honeys-hive-eufaula-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx scripts/generate-pages.tsx",
+    "predev": "npm run generate",
+    "dev": "vite --host 0.0.0.0",
+    "prebuild": "npm run generate",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.3",
+    "vite": "^6.3.5"
+  },
+  "engines": { "node": ">=20" }
+}
